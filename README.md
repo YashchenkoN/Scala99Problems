@@ -10,7 +10,3 @@ This project is only my implementation of solutions. I write it during Scala lea
 ## Running the tests
 
 In the future, I will write tests for all problems, but currently tests are in TODO stage
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
